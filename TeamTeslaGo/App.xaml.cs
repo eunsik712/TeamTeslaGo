@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace TeamTeslaGo
+namespace TeamTeslaGo.View
 {
     /// <summary>
     /// Interaction logic for App.xaml
